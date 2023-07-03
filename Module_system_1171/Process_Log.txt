@@ -1,0 +1,112 @@
+.\header files\header_animations.py
+.\header files\header_common.py
+.\header files\header_dialogs.py
+.\header files\header_factions.py
+.\header files\header_game_menus.py
+.\header files\header_ground_types.py
+.\header files\header_items.py
+.\header files\header_item_modifiers.py
+.\header files\header_map_icons.py
+.\header files\header_meshes.py
+.\header files\header_mission_templates.py
+.\header files\header_mission_types.py
+.\header files\header_music.py
+.\header files\header_operations.py
+.\header files\header_particle_systems.py
+.\header files\header_parties.py
+.\header files\header_postfx.py
+.\header files\header_presentations.py
+.\header files\header_quests.py
+.\header files\header_scenes.py
+.\header files\header_scene_props.py
+.\header files\header_skills.py
+.\header files\header_skins.py
+.\header files\header_sounds.py
+.\header files\header_strings.py
+.\header files\header_tableau_materials.py
+.\header files\header_terrain_types.py
+.\header files\header_triggers.py
+.\header files\header_troops.py
+已复制        29 个文件。
+.\ID files\ID_animations.py
+.\ID files\ID_factions.py
+.\ID files\ID_info_pages.py
+.\ID files\ID_items.py
+.\ID files\ID_map_icons.py
+.\ID files\ID_menus.py
+.\ID files\ID_meshes.py
+.\ID files\ID_mission_templates.py
+.\ID files\ID_music.py
+.\ID files\ID_particle_systems.py
+.\ID files\ID_parties.py
+.\ID files\ID_party_templates.py
+.\ID files\ID_postfx_params.py
+.\ID files\ID_presentations.py
+.\ID files\ID_quests.py
+.\ID files\ID_scenes.py
+.\ID files\ID_scene_props.py
+.\ID files\ID_scripts.py
+.\ID files\ID_skills.py
+.\ID files\ID_sounds.py
+.\ID files\ID_strings.py
+.\ID files\ID_tableau_materials.py
+.\ID files\ID_troops.py
+已复制        23 个文件。
+.\process files\process_animations.py
+.\process files\process_common.py
+.\process files\process_dialogs.py
+.\process files\process_factions.py
+.\process files\process_game_menus.py
+.\process files\process_global_variables.py
+.\process files\process_global_variables_unused.py
+.\process files\process_info_pages.py
+.\process files\process_init.py
+.\process files\process_items.py
+.\process files\process_line_correction.py
+.\process files\process_map_icons.py
+.\process files\process_meshes.py
+.\process files\process_mission_tmps.py
+.\process files\process_music.py
+.\process files\process_operations.py
+.\process files\process_particle_sys.py
+.\process files\process_parties.py
+.\process files\process_party_tmps.py
+.\process files\process_postfx.py
+.\process files\process_presentations.py
+.\process files\process_quests.py
+.\process files\process_scenes.py
+.\process files\process_scene_props.py
+.\process files\process_scripts.py
+.\process files\process_simple_triggers.py
+.\process files\process_skills.py
+.\process files\process_skins.py
+.\process files\process_sounds.py
+.\process files\process_strings.py
+.\process files\process_tableau_materials.py
+.\process files\process_tags_unused.py
+.\process files\process_troops.py
+已复制        33 个文件。
+.\ID_animations.py
+.\ID_factions.py
+.\ID_info_pages.py
+.\ID_items.py
+.\ID_map_icons.py
+.\ID_menus.py
+.\ID_meshes.py
+.\ID_mission_templates.py
+.\ID_music.py
+.\ID_particle_systems.py
+.\ID_parties.py
+.\ID_party_templates.py
+.\ID_postfx_params.py
+.\ID_presentations.py
+.\ID_quests.py
+.\ID_scenes.py
+.\ID_scene_props.py
+.\ID_scripts.py
+.\ID_skills.py
+.\ID_sounds.py
+.\ID_strings.py
+.\ID_tableau_materials.py
+.\ID_troops.py
+已复制        23 个文件。
